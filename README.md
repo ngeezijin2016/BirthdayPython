@@ -12,4 +12,4 @@ Happy birthday to you
 Happy birthday to ..... oops, I don't know your name!
 Happy birthday to you
 
-You can tweak it, make it more fun yourself, but not copy.
+You can tweak it, make it more fun yourself, but not copy. Go to the README file to see the real README.
